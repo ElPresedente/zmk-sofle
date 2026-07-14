@@ -60,7 +60,7 @@ layers:
   - LAYER1
   - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-shift$$'}
   - PLAY PAUSE
-  - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-control$$'}
+  - {t: '$$mdi:keyboard-return$$', h: '$$mdi:apple-keyboard-control$$'}
   - LAYER2
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:apple-keyboard-shift$$
@@ -96,8 +96,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - F11
-  - F12
+  - {t: '$$mdi:apple-keyboard-shift$$', h: F11}
+  - {t: '$$mdi:apple-keyboard-control$$', h: F12}
   - $$mdi:skip-previous$$
   - PG DN
   - $$mdi:arrow-left-bold$$
