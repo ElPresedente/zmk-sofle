@@ -127,7 +127,7 @@ layers:
   - PLAY PAUSE
   - {t: '$$mdi:transfer$$', type: trans}
   - '3'
-  - $$mdi:backspace-reverse-outline$$
+  - $$mdi:apple-keyboard-shift$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   LAYER2:
